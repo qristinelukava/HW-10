@@ -1,0 +1,35 @@
+@media (max-width: 1300px) {
+	.first-container {
+		flex-direction: column;
+	}
+	}
+@media (max-width: 1000px){
+    .burger-bar {
+      display: block;
+    }
+}
+@media (max-width: 1001px) {
+	.navigation {
+		display: none;
+	}
+}
+@media (max-width: 800px){
+	.section1 {
+		flex-direction: column;
+	}
+}
+@media (max-width: 900px) {
+	.block-1 {
+		width: 50%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
